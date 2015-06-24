@@ -8,7 +8,7 @@ Follow [@FireworkVR](http://twitter.com/FireworkVR) and [@zachkinstner](http://t
 
 ### Experience
 
-In the Firework Factory, you can customize your virtual fireworks, share your favorites, watch them explode from any angle, and even control time itself! Drift slowly amongst bullet-time fireworks passing by, get up-close-and-personal with the most explosive fireworks, view a slow zen-like firework implosion, or anywhere in-between. The entire experience is up to you.
+In the Firework Factory, you can customize virtual fireworks, share your favorites, watch them explode from any angle, and even control time itself! Drift slowly amongst bullet-time fireworks passing by, get up-close-and-personal with the most explosive fireworks, view a slow zen-like firework implosion, or anywhere in-between. The entire experience is up to you.
 
 ![Loading animation...](http://aestheticinteractive.com/firework/FireworkFactory-Flyby-640.gif)
 
